@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.cardsgame" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.android.cardsgame.HomeScreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.android.cardsgame.CreateGame"
+            android:label="@string/title_activity_create_game" >
+        </activity>
+        <activity
+            android:name="com.example.android.cardsgame.GamePlay"
+            android:label="@string/title_activity_game_play" >
+        </activity>
+        <activity
+            android:name="com.example.android.cardsgame.Activity_GameDone"
+            android:label="@string/title_activity_activity__game_done" >
+        </activity>
+        <activity
+            android:name="com.example.android.cardsgame.GameDone"
+            android:label="@string/title_activity_game_done" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CardsGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_game">Create Game</string>
+    <string name="join_game">Join Game</string>
+    <string name="title_activity_create_game">CreateGame</string>
+    <string name="player_text_view">Player</string>
+    <string name="player_card_1">PlayerCard1</string>
+    <string name="player_card_2">PlayerCard2</string>
+    <string name="player_card_3">PlayerCard3</string>
+    <string name="player_card_4">PlayerCard4</string>
+    <string name="player_card_5">PlayerCard5</string>
+    <string name="player_card_6">PlayerCard6</string>
+    <string name="player_card_7">PlayerCard7</string>
+    <string name="player_card_8">PlayerCard8</string>
+    <string name="player_card_9">PlayerCard9</string>
+    <string name="player_card_10">PlayerCard10</string>
+    <string name="player_card_11">PlayerCard11</string>
+    <string name="player_card_12">PlayerCard12</string>
+    <string name="player_card_13">PlayerCard13</string>
+    <string name="title_activity_game_play">GamePlay</string>
+    <string name="title_activity_activity__game_done">Activity_GameDone</string>
+    <string name="title_activity_game_done">GameDone</string>
+
+</resources>
